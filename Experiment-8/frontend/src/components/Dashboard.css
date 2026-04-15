@@ -1,0 +1,15 @@
+.dashboard-bg {
+  height: 100vh;
+  background: linear-gradient(135deg, #43cea2, #185a9d);
+}
+
+.dashboard-card {
+  width: 500px;
+  border-radius: 15px;
+  padding: 15px;
+  background: white;
+}
+.login-card:hover {
+  transform: scale(1.02);
+  transition: 0.3s;
+}
