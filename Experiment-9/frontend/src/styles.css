@@ -1,0 +1,44 @@
+/* Background */
+body {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  font-family: Arial, sans-serif;
+}
+
+/* Center container */
+.container {
+  max-width: 400px;
+}
+
+/* Card styling */
+.card {
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgba(0,0,0,0.2);
+  background: white;
+}
+
+/* Heading */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+.btn {
+  width: 100%;
+  border-radius: 25px;
+}
+
+/* Dashboard box */
+.dashboard {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+/* Spacing */
+.mt-5 {
+  margin-top: 100px !important;
+}
